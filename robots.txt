@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://mckinneywaterheaters.com/sitemap.xml
+Sitemap: https://mckinneywaterheaters.com/blog_sitemap.xml
